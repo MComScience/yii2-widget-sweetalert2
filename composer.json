@@ -1,0 +1,24 @@
+{
+    "name": "m-comscience/yii2-widget-sweetalert2",
+    "description": "SweetAlert2 widget for Yii2 framework",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","widget","sweetalert2"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Tanakorn Phompak",
+            "email": "mcomsciencermu@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.14",
+        "yiisoft/yii2-bootstrap": "~2.0.0",
+        "bower-asset/sweetalert2": "^7.25.0",
+        "daneden/animate.css": "^3.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "mcomscience\\sweetalert2\\": "src"
+        }
+    }
+}
