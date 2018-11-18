@@ -51,6 +51,7 @@ class SweetAlert2 extends Widget
     public function init()
     {
         parent::init();
+        SwalAsset::register($this->view);
         SweetAlert2Asset::register($this->view);
     }
 

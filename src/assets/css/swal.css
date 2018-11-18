@@ -1,0 +1,11 @@
+body.swal2-shown:not(.swal2-no-backdrop):not(.swal2-toast-shown) {
+    overflow-y: unset !important;
+}
+
+.swal2-shown {
+    overflow-x: auto !important;
+}
+
+.swal2-popup {
+    font-size: 1.6rem !important;
+}
