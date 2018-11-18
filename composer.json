@@ -3,6 +3,7 @@
     "description": "SweetAlert2 widget for Yii2 framework",
     "type": "yii2-extension",
     "keywords": ["yii2","extension","widget","sweetalert2"],
+    "homepage": "https://github.com/MComScience/yii2-widget-sweetalert2",
     "license": "BSD-3-Clause",
     "authors": [
         {
